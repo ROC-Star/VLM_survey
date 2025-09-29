@@ -30,10 +30,12 @@ The process to submit a pull request is as follows:
 
 ‼️ **We plan to update the arXiv version of our survey paper soon. If your paper is missing from this repository, feel free to contact us or open an issue!**
 
-Last update on 2025/3/24
+Last update on 2025/9/29
 
 #### VLMs and Synthetic Data
 
+* [CVPR 2025] Synthetic Data is an Elegant GIFT for Continual Vision-Language Models [[Paper](https://arxiv.org/pdf/2503.04229v1)][[Code](https://github.com/Luo-Jiaming/GIFT_CL)]
+* [CVPR 2025] Enhancing Vision-Language Compositional Understanding with Multimodal Synthetic Data [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Enhancing_Vision-Language_Compositional_Understanding_with_Multimodal_Synthetic_Data_CVPR_2025_paper.pdf)]
 * [OpenReview 2025] A Survey on Bridging VLMs and Synthetic Data [[Paper](https://openreview.net/pdf?id=ThjDCZOljE)][[Code](https://github.com/mghiasvand1/Awesome-VLM-Synthetic-Data)]
 
 #### VLM Pre-training Methods
@@ -43,6 +45,16 @@ Last update on 2025/3/24
 * [NeurIPS 2024] Accelerating Pre-training of Multimodal LLMs via Chain-of-Sight [[Paper](https://papers.nips.cc/paper_files/paper/2024/file/8a54a80ffc2834689ffdd0920202018e-Paper-Conference.pdf)][[Code](https://chain-of-sight.github.io/)]
 
 #### VLM Transfer Learning Methods
+* [CVPR 2025] DPC: Dual-Prompt Collaboration for Tuning Vision-Language Models [[Paper](https://arxiv.org/pdf/2503.13443v1)][[Code](https://github.com/JREion/DPC)]
+* [CVPR 2025] O-TPT: Orthogonality Constraints for Calibrating Test-time Prompt Tuning in [[Paper](https://arxiv.org/pdf/2503.12096v1)][[Code](https://github.com/ashshaksharifdeen/O-TPT)]
+* [CVPR 2025] R-TPT: Improving Adversarial Robustness of Vision-Language Models through Test-Time Prompt Tuning [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Sheng_R-TPT_Improving_Adversarial_Robustness_of_Vision-Language_Models_through_Test-Time_Prompt_CVPR_2025_paper.pdf)][[Code](https://github.com/TomSheng21/R-TPT)]
+* [CVPR 2025] TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_TAPT_Test-Time_Adversarial_Prompt_Tuning_for_Robust_Inference_in_Vision-Language_CVPR_2025_paper.pdf)][[Code](https://github.com/xinwong/TAPT)]
+* [CVPR 2025] Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_Skip_Tuning_Pre-trained_Vision-Language_Models_are_Effective_and_Efficient_Adapters_CVPR_2025_paper.pdf)][[Code](https://github.com/Koorye/SkipTuning)]
+* [CVPR 2025] Adaptive Parameter Selection for Tuning Vision-Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Adaptive_Parameter_Selection_for_Tuning_Vision-Language_Models_CVPR_2025_paper.pdf)]
+* [CVPR 2025] Task-Aware Clustering for Prompting Vision-Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Hao_Task-Aware_Clustering_for_Prompting_Vision-Language_Models_CVPR_2025_paper.pdf)][[Code](https://github.com/FushengHao/TAC)]
+* [CVPR 2025] Bayesian Test-Time Adaptation for Vision-Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Bayesian_Test-Time_Adaptation_for_Vision-Language_Models_CVPR_2025_paper.pdf)]
+* [CVPR 2025] NLPrompt: Noise-Label Prompt Learning for Vision-Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Pan_NLPrompt_Noise-Label_Prompt_Learning_for_Vision-Language_Models_CVPR_2025_paper.pdf)][[Code](https://github.com/qunovo/NLPrompt)]
+* [CVPR 2025] Realistic Test-Time Adaptation of Vision-Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zanella_Realistic_Test-Time_Adaptation_of_Vision-Language_Models_CVPR_2025_paper.pdf)][[Code](https://github.com/MaxZanella/StatA)]
 * [NeurIPS 2024] ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models [[Paper](https://papers.nips.cc/paper_files/paper/2024/file/4fd96b997454b5b02698595df70fccaf-Paper-Conference.pdf)][[Code](https://github.com/mrwu-mac/ControlMLLM)]
 * [NeurIPS 2024] Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation [[Paper](https://papers.nips.cc/paper_files/paper/2024/file/c1e1ad233411e25b54bb5df3a0576c2c-Paper-Conference.pdf)][[Code](https://lwpyh.github.io/ProMaC/)]
 * [NeurIPS 2024] Visual Fourier Prompt Tuning [[Paper](https://papers.nips.cc/paper_files/paper/2024/file/0a0eba34ab2ff40ca2d2843324dcc4ab-Paper-Conference.pdf)][[Code](https://github.com/runtsang/VFPT)]
