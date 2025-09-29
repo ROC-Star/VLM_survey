@@ -45,6 +45,8 @@ Last update on 2025/9/29
 * [NeurIPS 2024] Accelerating Pre-training of Multimodal LLMs via Chain-of-Sight [[Paper](https://papers.nips.cc/paper_files/paper/2024/file/8a54a80ffc2834689ffdd0920202018e-Paper-Conference.pdf)][[Code](https://chain-of-sight.github.io/)]
 
 #### VLM Transfer Learning Methods
+* [ICCV 2025] One Last Attention for Your Vision-Language Model [[Paper](https://arxiv.org/pdf/2507.15480v1)][[Code](https://github.com/khufia/RAda/tree/main)]
+* [ICCV 2025] Hierarchical Cross-modal Prompt Learning for Vision-Language Models [[Paper](https://arxiv.org/pdf/2507.14976v1)][[Code](https://github.com/zzeoZheng/HiCroPL)]
 * [CVPR 2025] DPC: Dual-Prompt Collaboration for Tuning Vision-Language Models [[Paper](https://arxiv.org/pdf/2503.13443v1)][[Code](https://github.com/JREion/DPC)]
 * [CVPR 2025] O-TPT: Orthogonality Constraints for Calibrating Test-time Prompt Tuning in [[Paper](https://arxiv.org/pdf/2503.12096v1)][[Code](https://github.com/ashshaksharifdeen/O-TPT)]
 * [CVPR 2025] R-TPT: Improving Adversarial Robustness of Vision-Language Models through Test-Time Prompt Tuning [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Sheng_R-TPT_Improving_Adversarial_Robustness_of_Vision-Language_Models_through_Test-Time_Prompt_CVPR_2025_paper.pdf)][[Code](https://github.com/TomSheng21/R-TPT)]
