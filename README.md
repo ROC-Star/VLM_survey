@@ -26,11 +26,18 @@ The process to submit a pull request is as follows:
 ```
 - c. Submit the pull request to this branch.
 
+**We plan to update the arXiv version of our survey paper soon. If your paper is missing from this repository, feel free to contact us or open an issue!**
+
 ## 🔥 News
 
-‼️ **We plan to update the arXiv version of our survey paper soon. If your paper is missing from this repository, feel free to contact us or open an issue!**
+<details open><summary>📣 We also have a collection on agentic MLLMs that may interest you ✨. </summary><p>
+  
+> [**Awesome-Agentic-MLLMs**](https://github.com/HJYao00/Awesome-Agentic-MLLMs) <br> 
+>  [![arXiv](https://img.shields.io/badge/arXiv-2510.10991-b31b1b.svg)](https://arxiv.org/abs/2510.10991) [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/HJYao00/Awesome-Agentic-MLLMs)
 
-Last update on 2025/9/29
+</p ></details>
+
+📅 Last update on 2025/10/14
 
 #### VLMs and Synthetic Data
 
